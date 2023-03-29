@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9sWw2Ivi1kCx7qum+wspYAAAAAACAAAAAAAQZgAAAAEAACAAAACR8cCNd/y+S5+OBEP2NTFlPx+z6heJx27h6BuBNxJq8AAAAAAOgAAAAAIAACAAAACr9A3yeWkc/aAtGpW/NclHhv4vdLqYHUPhk9iPFxeq+SAAAAAP4yiCWdL0TeYnlmOUGIvvoDdMNfOkenA4S90J/MAulkAAAAAQ0/vibBJE+y9nZ0i6GiSJgyME1nOl3q0JTTeOPn33R+rUcaAEC+CTjnmC0yU5AD0IPL6iKuK14CbOjO/BJvmH</EncryptedPassword>
+    <_PublishTargetUrl>ftp://exposure.somee.com/www.exposure.somee.com/</_PublishTargetUrl>
+    <History>True|2022-03-02T18:41:09.6120742Z;False|2022-03-02T09:41:08.2750745-06:00;False|2022-03-02T09:40:08.3709350-06:00;True|2022-03-01T15:02:05.1358543-06:00;False|2022-03-01T14:56:47.8551781-06:00;True|2022-02-28T15:10:36.1373093-06:00;False|2022-02-28T15:03:01.6619011-06:00;False|2022-02-28T14:35:29.1020563-06:00;False|2022-02-27T17:21:25.5751368-06:00;False|2022-02-27T17:19:05.4055419-06:00;False|2022-02-27T17:13:24.1062772-06:00;False|2022-02-27T17:02:18.6822894-06:00;True|2022-02-27T15:24:10.0403688-06:00;False|2022-02-27T15:18:18.9308728-06:00;False|2022-02-27T15:12:22.1066525-06:00;True|2022-02-27T13:45:22.9886696-06:00;True|2022-02-26T16:28:22.7639019-06:00;True|2022-02-23T18:35:53.1031086-06:00;True|2021-10-16T13:46:06.5359787-05:00;True|2021-10-02T13:25:38.6307401-05:00;False|2021-10-02T13:24:15.6550110-05:00;True|2021-09-25T12:59:36.3100196-05:00;False|2021-09-25T12:55:54.0592590-05:00;True|2021-09-25T12:47:23.8126573-05:00;False|2021-09-25T12:43:46.0297721-05:00;True|2021-09-25T12:25:32.4155021-05:00;True|2021-08-15T13:57:30.7284410-05:00;True|2021-08-07T17:43:33.1454479-05:00;True|2021-07-03T14:47:48.0252053-05:00;True|2021-06-26T17:07:02.1439339-05:00;False|2021-06-26T17:04:12.9104259-05:00;True|2021-06-14T12:33:49.6287622-05:00;False|2021-06-14T12:32:06.7850664-05:00;True|2021-06-14T11:01:54.9269450-05:00;False|2021-06-14T10:59:46.6240734-05:00;False|2021-06-14T10:48:14.6129259-05:00;False|2021-06-14T10:46:04.2495402-05:00;True|2021-06-13T18:50:32.7799838-05:00;False|2021-06-13T18:49:11.6149795-05:00;True|2021-06-13T18:46:38.7054068-05:00;False|2021-06-13T18:45:09.9867631-05:00;True|2021-06-13T18:41:23.4562147-05:00;True|2021-06-13T18:39:15.5249635-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="ExpBuilder.dll">
+      <publishTime>02/23/2022 18:08:08</publishTime>
+    </File>
+    <File Include="ExpBuilder.pdb">
+      <publishTime>02/23/2022 18:08:08</publishTime>
+    </File>
+    <File Include="exposure-api.deps.json">
+      <publishTime>03/02/2022 12:35:48</publishTime>
+    </File>
+    <File Include="exposure-api.dll">
+      <publishTime>03/02/2022 12:35:47</publishTime>
+    </File>
+    <File Include="exposure-api.exe">
+      <publishTime>03/02/2022 12:35:47</publishTime>
+    </File>
+    <File Include="exposure-api.pdb">
+      <publishTime>03/02/2022 12:35:47</publishTime>
+    </File>
+    <File Include="exposure-api.runtimeconfig.json">
+      <publishTime>03/01/2022 14:51:27</publishTime>
+    </File>
+    <File Include="exposure-api.Views.dll">
+      <publishTime>03/02/2022 12:35:48</publishTime>
+    </File>
+    <File Include="exposure-api.Views.pdb">
+      <publishTime>03/02/2022 12:35:48</publishTime>
+    </File>
+    <File Include="exposure-core.dll">
+      <publishTime>02/27/2022 17:03:21</publishTime>
+    </File>
+    <File Include="exposure-core.pdb">
+      <publishTime>02/27/2022 17:03:21</publishTime>
+    </File>
+    <File Include="exposure-extensions.dll">
+      <publishTime>02/23/2022 18:08:08</publishTime>
+    </File>
+    <File Include="exposure-extensions.pdb">
+      <publishTime>02/23/2022 18:08:08</publishTime>
+    </File>
+    <File Include="exposure-modules.dll">
+      <publishTime>03/01/2022 14:51:26</publishTime>
+    </File>
+    <File Include="exposure-modules.pdb">
+      <publishTime>03/01/2022 14:51:26</publishTime>
+    </File>
+    <File Include="FastMember.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
+      <publishTime>05/15/2018 16:01:34</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>05/15/2018 16:01:34</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 15:14:12</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 14:03:36</publishTime>
+    </File>
+    <File Include="nominations.json">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>08/16/2021 14:22:22</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>12/07/2017 06:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>12/07/2017 06:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>12/07/2017 06:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>08/16/2021 14:22:26</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>04/30/2021 05:51:32</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>04/30/2021 05:51:32</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>04/30/2021 05:51:38</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>08/16/2021 14:14:56</publishTime>
+    </File>
+    <File Include="System.Net.WebSockets.WebSocketProtocol.dll">
+      <publishTime>06/06/2018 08:29:04</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/02/2022 12:35:49</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>02/21/2022 18:06:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

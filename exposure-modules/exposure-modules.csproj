@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>exposure_modules</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ShapeModule\Entity\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HttpFileCollectionBaseExtension" Version="1.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExpBuilder\ExpBuilder.csproj" />
+    <ProjectReference Include="..\exposure-core\exposure-core.csproj" />
+    <ProjectReference Include="..\exposure-extensions\exposure-extensions.csproj" />
+  </ItemGroup>
+
+</Project>

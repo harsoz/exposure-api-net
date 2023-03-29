@@ -1,0 +1,78 @@
+{
+  "NominationConfig": {
+    "Coins": [
+      {
+        "Country": "US",
+        "Type": "Coin",
+        "Value": "0.01",
+        "Src": "assets/us001.jfif"
+      },
+      {
+        "Country": "US",
+        "Type": "Coin",
+        "Value": "0.05",
+        "Src": "assets/us005.jpg"
+      },
+      {
+        "Country": "US",
+        "Type": "Coin",
+        "Value": "0.10",
+        "Src": "assets/us010.png"
+      },
+      {
+        "Country": "US",
+        "Type": "Coin",
+        "Value": "0.25",
+        "Src": "assets/us025.jpg"
+      },
+      {
+        "Country": "US",
+        "Type": "Coin",
+        "Value": "0.50",
+        "Src": "assets/us050.png"
+      },
+      {
+        "Country": "US",
+        "Type": "Bill",
+        "Value": "1",
+        "Src": "assets/us1.jpg"
+      },
+      {
+        "Country": "US",
+        "Type": "Bill",
+        "Value": "2.00",
+        "Src": "assets/us2.jpg"
+      },
+      {
+        "Country": "US",
+        "Type": "Bill",
+        "Value": "5.00",
+        "Src": "assets/us5.jpg"
+      },
+      {
+        "Country": "US",
+        "Type": "Bill",
+        "Value": "10.00",
+        "Src": "assets/us10.jpg"
+      },
+      {
+        "Country": "US",
+        "Type": "Bill",
+        "Value": "20.00",
+        "Src": "assets/us20.png"
+      },
+      {
+        "Country": "US",
+        "Type": "Bill",
+        "Value": "50.00",
+        "Src": "assets/us50.jpg"
+      },
+      {
+        "Country": "US",
+        "Type": "Bill",
+        "Value": "100.00",
+        "Src": "assets/us100.jpg"
+      }
+    ]
+  }
+}
